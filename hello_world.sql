@@ -1,0 +1,1 @@
+CREATE TABLE dual AS ( VALUES ('Hello World') );
